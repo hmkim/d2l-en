@@ -1,5 +1,6 @@
 # Introduction
 
+최근까지, 모든 컴퓨터 프로그램은..
 Until recently, nearly all of the computer programs
 that we interacted with every day were coded
 by software developers from first principles.
